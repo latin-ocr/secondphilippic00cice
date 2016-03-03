@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./secondphilippic00cice_0004.png"; bbox 0 0 1384 2372; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 342 2159 468 2180">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 342 2159 468 2180">
+     <span class='ocr_line' id='line_1_1' title="bbox 342 2159 468 2180; baseline -0.008 -2"><span class='ocrx_word' id='word_1_1' title='bbox 342 2162 385 2180; x_wconf 26' lang='grc' dir='ltr'>κη·</span> <span class='ocrx_word' id='word_1_2' title='bbox 401 2159 406 2167; x_wconf 69' lang='lat'>²</span> <span class='ocrx_word' id='word_1_3' title='bbox 441 2163 468 2178; x_wconf 68' lang='lat'>⁴1-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 363 2183 375 2202">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 363 2183 375 2202">
+     <span class='ocr_line' id='line_1_2' title="bbox 363 2183 375 2202; baseline 0 -16"><span class='ocrx_word' id='word_1_4' title='bbox 363 2183 375 2202; x_wconf 24' lang='grc' dir='ltr'>δ’,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 126 2190 897 2279">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 126 2190 897 2283">
+     <span class='ocr_line' id='line_1_3' title="bbox 126 2190 897 2279; baseline 0.003 -21"><span class='ocrx_word' id='word_1_5' title='bbox 126 2211 625 2279; x_wconf 71' lang='lat' dir='ltr'>mtpllwwwarcmveosql</span> <span class='ocrx_word' id='word_1_6' title='bbox 642 2194 707 2258; x_wconf 30' lang='lat' dir='ltr'>&#39;et&#39;</span> <span class='ocrx_word' id='word_1_7' title='bbox 742 2190 897 2271; x_wconf 50' lang='lat' dir='ltr'>{lsssffi</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1384 2372">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1384 2372">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1384 2372; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1384 2372; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
